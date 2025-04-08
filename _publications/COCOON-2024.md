@@ -1,11 +1,11 @@
 ---
-title: "Online Clustering with Nearly Optimal Consistency"
+title: "MPMD on Two Sources with Lookahead"
 collection: publications
 category: conferences
-permalink: /publication/ICLR-2025
-excerpt: 'The work is about efficient real-time data grouping, dynamic clustering with minimal adjustments.'
-date: 2025-04
-paperurl: 'https://openreview.net/forum?id=NA2vUMaMOm'
+permalink: /publication/COCOON-2024
+excerpt: 'This work is about designing algorithms for matching dynamic requests between two locations in real-time, balancing immediate matching costs against penalties for delayed decisions.'
+date: 2024-08
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-96-1090-7_15'
 
 ---
 
