@@ -1,5 +1,5 @@
 ---
-title: "A Hybrid Obstacle Avoidance Strategy Based on {PSO} in Source Location"
+title: "A Hybrid Obstacle Avoidance Strategy Based on PSO in Source Location"
 collection: publications
 category: conferences
 venue: '13th International Conference on Advanced Computational Intelligence'
