@@ -9,10 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Please check my CV here](../files/Mengshi_HKU_PhD_CV.pdf).
 ======
-* Ph.D in Computer Science, The University of Hong Kong, 2026 (expected)
-* B.S. in Computer Science, Tongji University, 2022
-
-======
-For more information, please check my CV.
