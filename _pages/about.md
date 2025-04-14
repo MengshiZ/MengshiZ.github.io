@@ -11,5 +11,5 @@ I'm Mengshi, a Computer Science PhD student at the University of Hong Kong. I ho
 
 My research focuses on theoretical machine learning, particularly private learning algorithms and online learning. Feel free to explore this website to learn more about my work!
 
-[Please check my CV here](../files/Mengshi_HKU_PhD_CV.pdf).
+[Please check my CV here](../files/Mengshi_PhD_HKU_CV.pdf).
 ======
